@@ -1,0 +1,7 @@
+NotepadDarkify/
+│
+├── darkmode-notepad.py     # Main script to enable dark mode
+├── requirements.py         # Script to install requirements
+├── README.md              # Project documentation
+├── LICENSE               # MIT License file
+└── .gitignore           # Git ignore file for Python projects
